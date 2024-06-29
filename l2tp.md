@@ -1,4 +1,5 @@
-#!/usr/bin/sudo /bin/dash
+#!/bin/bash
+sudo su root
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
